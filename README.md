@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is hosted at [(https://chatting-teams.netlify.app/).](https://play-tictac-toe.netlify.app/)
+This project is hosted at [https://play-tictac-toe.netlify.app/](https://play-tictac-toe.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
